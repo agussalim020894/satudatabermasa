@@ -128,7 +128,7 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>PEJABAT DAERAH YA</h2>
+        <h2>PEJABAT DAERAH</h2>
       </div>
 
       <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -222,7 +222,7 @@
           <img src="{{asset('images/tentang.png')}}" height="200" width="400" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content">
-          <h3>Tentang ya Satu Data</h3>
+          <h3>Tentang Satu Data</h3>
           <p class="text-justify">
           Merupakan salah satu aplikasi yang dibangun oleh Dinas Komunikasi, Informatika dan Statistik Kabupaten Bengkalis. Dibuat dengan tujuan sebagai media untuk penyajian data informasi spesifik dari Data Sektoral dan Data Spasial. 
           Aplikasi ini dikelola oleh bidang Statistik yang ada di Dinas Komunikasi, Informatika dan Statistik Kabupaten Bengkalis yang bekerjasama dengan Organisasi Perangkat Daerah (OPD) lingkup Pemerintah Kabupaten Bengkalis. 
