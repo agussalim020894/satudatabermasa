@@ -62,7 +62,6 @@
 <script src="{{asset('MyResume/assets/vendor/waypoints/noframework.waypoints.js')}}"></script>
 <script src="{{asset('MyResume/assets/vendor/php-email-form/validate.js')}}"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
     <!-- <script>
         $('.brand-carousel').owlCarousel({
